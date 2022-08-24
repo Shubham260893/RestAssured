@@ -1,0 +1,18 @@
+{
+    "userName": "Test",
+    "password": "1234",
+    "loginClaims": [
+        {
+            "key": "userId",
+            "value": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+        },
+        {
+            "key": "partnerId",
+            "value": 0
+        },
+        {
+            "key": "isRMSPartner",
+            "value": true
+        }
+    ]
+}
