@@ -12,7 +12,8 @@
         },
         {
             "key": "isRMSPartner",
-            "value": true
+            "value": true,
+
         }
     ]
 }
