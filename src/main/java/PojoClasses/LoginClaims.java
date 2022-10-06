@@ -7,8 +7,8 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class LoginClaims {
-	
-	
+
+	//This is just a practice
 	@JsonProperty("key")
 	private String key;
 	@JsonProperty("value")
