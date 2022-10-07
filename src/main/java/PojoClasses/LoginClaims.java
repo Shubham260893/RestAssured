@@ -9,6 +9,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class LoginClaims {
 
 	//This is just a practice
+	//This is my code
 	@JsonProperty("key")
 	private String key;
 	@JsonProperty("value")
